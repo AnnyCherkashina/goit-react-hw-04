@@ -4,7 +4,6 @@
 
 header {
     display: flex;
-    /* background-color: rgb(234, 230, 230); */
     justify-content: center;
     align-items: center;
     width: 1440px;
@@ -13,12 +12,14 @@ header {
 }
 
 .field {
-    width: 800px;
-    height: 40px;
+    width: 300px;
+    height: 45px;
     margin: 15px;
     border-radius: 6px;
     padding: 15px;
-    border: 2px solid rgb(70, 20, 39);
+
+    border: 2px solid rgb(245, 142, 180);
+
 }
 
 .form {
