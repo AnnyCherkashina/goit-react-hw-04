@@ -4,11 +4,12 @@
 
 header {
     display: flex;
-    background-color: rgb(136, 3, 3);
+    /* background-color: rgb(234, 230, 230); */
     justify-content: center;
     align-items: center;
     width: 1440px;
     border-radius: 6px;
+
 }
 
 .field {
@@ -17,7 +18,7 @@ header {
     margin: 15px;
     border-radius: 6px;
     padding: 15px;
-    border: 2px solid rgb(24, 3, 11);
+    border: 2px solid rgb(70, 20, 39);
 }
 
 .form {
@@ -25,5 +26,6 @@ header {
 }
 
 .btn {
-    border: 2px solid rgb(55, 30, 39);
+    background-color: rgb(148, 96, 109);
+    border: 2px solid rgb(245, 142, 180);
 }

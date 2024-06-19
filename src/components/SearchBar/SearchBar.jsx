@@ -1,5 +1,6 @@
-import css from "./SearchBar.module.css";
 import { Formik, Form, Field } from "formik";
+import css from "./SearchBar.module.css";
+
 
 const SearchBar = ({ setQuery }) => {
     const handleSubmit = (data, options) => {
